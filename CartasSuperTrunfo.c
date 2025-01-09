@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//aluno: Fernando Souza De Araujo.
+//aluno: Fernando Souza De Araujo
 
 int main() {
 
